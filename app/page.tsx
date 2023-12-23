@@ -1,13 +1,13 @@
 import Image from 'next/image'
 
-import Hero from './components/Hero';
-import Product from './components/Product_home';
-import BOne from './components/Banner_one';
-import BTwo from './components/Banner_two';
-import ProductTwo from './components/ProductTwo';
-import FeatureHome from './components/Feature_home';
-import BlogHome from './components/Blog_home';
-import Brand from './components/Brand';
+import Hero from './components/home/Hero';
+import Product from './components/home/Product_home';
+import BOne from './components/home/Banner_one';
+import BTwo from './components/home/Banner_two';
+import ProductTwo from './components/home/ProductTwo';
+import FeatureHome from './components/home/Feature_home';
+import BlogHome from './components/home/Blog_home';
+import Brand from './components/home/Brand';
 
 export default function Home() {
   return (

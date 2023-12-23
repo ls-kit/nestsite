@@ -1,3 +1,5 @@
+import Brand from "../components/home/Brand";
+
 // components/Shop.js
 const Shop = () => {
     return (
@@ -433,32 +435,7 @@ const Shop = () => {
     </div>
     {/* Page Section End */}
     {/* Brand Section Start */}
-    <div className="brand-section section section-padding pt-0">
-      <div className="container-fluid">
-        <div className="row">
-          <div className="brand-slider">
-            <div className="brand-item col">
-              <img src="assets/images/brands/brand-1.png" alt="" />
-            </div>
-            <div className="brand-item col">
-              <img src="assets/images/brands/brand-2.png" alt="" />
-            </div>
-            <div className="brand-item col">
-              <img src="assets/images/brands/brand-3.png" alt="" />
-            </div>
-            <div className="brand-item col">
-              <img src="assets/images/brands/brand-4.png" alt="" />
-            </div>
-            <div className="brand-item col">
-              <img src="assets/images/brands/brand-5.png" alt="" />
-            </div>
-            <div className="brand-item col">
-              <img src="assets/images/brands/brand-6.png" alt="" />
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <Brand />
     {/* Brand Section End */}
    
 

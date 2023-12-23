@@ -110,8 +110,8 @@ const Footer = () => {
             <p className="footer-copyright">
               © 2022 Jadusona. Made with{" "}
               <i className="fa fa-heart heart-icon" /> By{" "}
-              <a target="_blank" href="https://hasthemes.com">
-                HasThemes
+              <a target="_blank" href="https://lskit.com">
+                Lskit
               </a>
             </p>
           </div>
