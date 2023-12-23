@@ -87,7 +87,7 @@ const Header = () => {
             <div className="col mt-15 mb-15">
               {/* Logo Start */}
               <div className="header-logo">
-                <a href="index.html">
+                <a href="/">
                   <img src="assets/images/logo.png" alt="Jadusona" />
                 </a>
               </div>
